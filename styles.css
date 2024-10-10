@@ -1,0 +1,30 @@
+.Highlight{
+    color:green
+}
+.main-content{
+    background-color:yellow
+}
+.center{
+    text-align: center;
+}
+.href{
+    text-decoration: none;
+}
+.dash{
+    text-decoration: dashed underline;
+}
+.bold-text{
+    font-weight: bold;
+}
+#intro{
+    font-weight:300;
+}
+body{
+    font-family: Arial, sans-serif;
+}
+.custom-font{
+    font-family: "Times New roman", Times, serif
+}
+.uppercase{
+    text-transform: uppercase 
+}
